@@ -31,7 +31,10 @@ function AppHeader() {
                 <Nav.Link href="#contact">Contact</Nav.Link>
               </Nav>
               <div className="btn-header">
-                <a className="btn" href="https://www.facebook.com">
+                <a
+                  className="btn"
+                  href="https://personal-portfolio-xi-gules.vercel.app/"
+                >
                   Hire Me
                 </a>
               </div>
