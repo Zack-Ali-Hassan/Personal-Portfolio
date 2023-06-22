@@ -1,0 +1,61 @@
+.contact-me {
+    margin-top: 40px;
+}
+
+.title {
+    text-align: center;
+
+}
+
+.title h2 {
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.sub-title::before {
+    content: "-";
+    margin-right: 5px;
+}
+
+.sub-title::after {
+    content: "-";
+    margin-left: 5px;
+}
+
+.border-ttile {
+    margin: auto;
+    margin-top: 15px;
+    border-bottom: red solid 3px;
+    width: 7%;
+}
+.bottom-contact{
+    background-color: #002d5b;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: white;
+}
+iframe{
+    width: 100%;
+}
+.bottom-contact .contact-icon {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bottom-contact .contact-icon a{
+    color: white;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.bottom-contact .contact-icon a:hover {
+    color: #ec5b53;
+    
+}
+.contact-gmail p{
+    font-size: 18px;
+    font-weight: bold;
+}

@@ -1,0 +1,118 @@
+.home{
+    background-color: rgb(255, 243, 243);
+    margin: auto;
+    
+}
+
+.header{
+    color: white;
+    font-size: 20px;
+    padding-top: 30px;
+    /* position: fixed; */
+    width: 100%;
+}
+.navHeader{
+    margin: auto;
+    font-weight: bold;
+}
+.navHeader a{
+    margin-left: 35px;
+    color: black;
+}
+.navHeader a:hover{
+    color: #ec5b53;
+    font-weight: bold;
+}
+.header .btn {
+    background: #ec5b53;
+    background-image: -webkit-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -moz-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -ms-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -o-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: linear-gradient(to bottom, #ec5b53, #ec5b53);
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 13px 35px 13px 35px;
+    text-decoration: none;
+}
+
+.header .btn:hover {
+    background: #c93830;
+    background-image: -webkit-linear-gradient(top, #c93830, #c93830);
+    background-image: -moz-linear-gradient(top, #c93830, #c93830);
+    background-image: -ms-linear-gradient(top, #c93830, #c93830);
+    background-image: -o-linear-gradient(top, #c93830, #c93830);
+    background-image: linear-gradient(to bottom, #c93830, #c93830);
+    text-decoration: none;
+}
+.home-info .btn {
+    background: #ec5b53;
+    background-image: -webkit-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -moz-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -ms-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -o-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: linear-gradient(to bottom, #ec5b53, #ec5b53);
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 6px 15px 6px 15px;
+    text-decoration: none;
+}
+
+.home-info .btn:hover {
+    background: #c93830;
+    background-image: -webkit-linear-gradient(top, #c93830, #c93830);
+    background-image: -moz-linear-gradient(top, #c93830, #c93830);
+    background-image: -ms-linear-gradient(top, #c93830, #c93830);
+    background-image: -o-linear-gradient(top, #c93830, #c93830);
+    background-image: linear-gradient(to bottom, #c93830, #c93830);
+    text-decoration: none;
+}
+.home-ico{
+    display: inline-block;
+    margin:170px  0px 0px 10px;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #002d5b;
+}
+ul li{
+    list-style: none;
+    margin-top: 10px;
+    color: #002d5b;
+}
+.home-ico a{
+    color: #002d5b;
+}
+.home-ico a:hover {
+    color: #c93830;
+}
+.home-info{
+    text-align: justify;
+    margin: 200px 80px 0px 10px;
+}
+.home-info h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #002d5b;
+    font-family: 'Tapestry', cursive;
+    text-align: center;
+}
+.home-info p{
+    margin-bottom: 40px;
+    text-align: justify;
+}
+.home-image{
+    margin: 0px 0px 0px 10px;
+}
+.home-image img{
+    width: 100%;
+    height: 800px;
+}

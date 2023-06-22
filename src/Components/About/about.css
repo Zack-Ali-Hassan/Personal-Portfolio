@@ -1,0 +1,84 @@
+.about-us{
+    margin: auto;
+    margin-bottom: 20px;
+}
+.title{
+    margin-bottom: 70px;
+    margin-top: 60px;
+    text-align: center;
+    
+}
+.title h2{
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.sub-title::before{
+    content: "-";
+    margin-right: 5px;
+}
+.sub-title::after {
+    content: "-";
+    margin-left: 5px;
+}
+.border-ttile{
+    margin: auto;
+    margin-top: 15px;
+    border-bottom: red solid 3px;
+    width: 7%;
+}
+.about-info{
+    width: 50%;
+    text-align: justify;
+    margin-left: 80px;
+}
+
+.progress-bar h4{
+    text-transform: uppercase;
+        margin: 10px 0 5px;
+        font-size: 16px;
+        font-weight: 600;
+}
+.progress-bar .ProgressBar{
+    height: 20px;
+    color: black;
+    font-weight: 600;
+}
+.about-img{
+    margin-top: 30px;
+    margin-left: 40px;
+    
+    width: 100%;
+}
+
+.about-img img {
+    width: 100%;
+    height: 500px;
+}
+.btn-about .btn {
+    margin-top: 30px;
+    background: #ec5b53;
+    background-image: -webkit-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -moz-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -ms-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: -o-linear-gradient(top, #ec5b53, #ec5b53);
+    background-image: linear-gradient(to bottom, #ec5b53, #ec5b53);
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 6px 15px 6px 15px;
+    text-decoration: none;
+}
+
+.btn-about .btn:hover {
+    background: #c93830;
+    background-image: -webkit-linear-gradient(top, #c93830, #c93830);
+    background-image: -moz-linear-gradient(top, #c93830, #c93830);
+    background-image: -ms-linear-gradient(top, #c93830, #c93830);
+    background-image: -o-linear-gradient(top, #c93830, #c93830);
+    background-image: linear-gradient(to bottom, #c93830, #c93830);
+    text-decoration: none;
+}

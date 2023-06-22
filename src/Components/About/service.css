@@ -1,0 +1,103 @@
+.service-providing {
+    background-color: rgb(255, 243, 243);
+    margin: auto;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.title {
+    text-align: center;
+}
+
+.title h2 {
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.sub-title::before {
+    content: "-";
+    margin-right: 5px;
+}
+
+.sub-title::after {
+    content: "-";
+    margin-left: 5px;
+}
+
+.border-ttile {
+    margin: auto;
+    margin-top: 15px;
+    border-bottom: red solid 3px;
+    width: 7%;
+    margin-bottom: 100px;
+}
+.graphic-info{
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    text-align: center;
+}
+.graphic-info img{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+}
+.graphic-info h3{
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.graphic-info a i{
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+
+.mobile-info {
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    text-align: center;
+}
+
+.mobile-info img {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+.mobile-info h3 {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.mobile-info a i {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+
+.web-info {
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    text-align: center;
+}
+
+.web-info img {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+.web-info h3 {
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.web-info a i {
+    margin-top: 30px;
+    font-weight: bold;
+}

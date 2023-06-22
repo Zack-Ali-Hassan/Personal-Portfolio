@@ -1,0 +1,113 @@
+.service-providing {
+    background-color: rgb(255, 243, 243);
+    margin: auto;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.title {
+    text-align: center;
+}
+
+.title h2 {
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.sub-title::before {
+    content: "-";
+    margin-right: 5px;
+}
+
+.sub-title::after {
+    content: "-";
+    margin-left: 5px;
+}
+
+.border-ttile {
+    margin: auto;
+    margin-top: 15px;
+    border-bottom: red solid 3px;
+    width: 7%;
+    margin-bottom: 100px;
+}
+.clients1-info {
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    text-align: center;
+}
+.clients1-info h3 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #ec5b53;
+}
+.clients1-info img {
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+    border: red solid 3px;
+    border-radius: 50%;
+}
+.clients1-info .border-ttile{
+    margin-bottom: 30px;
+}
+.clients1-info .user{
+
+}
+.clients2-info {
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    text-align: center;
+}
+
+.clients2-info h3 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #ec5b53;
+}
+
+.clients2-info img {
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+    border: red solid 3px;
+    border-radius: 50%;
+}
+
+.clients2-info .border-ttile {
+    margin-bottom: 30px;
+}
+
+.clients2-info .user {}
+.clients3-info {
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    text-align: center;
+}
+
+.clients3-info h3 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #ec5b53;
+}
+
+.clients3-info img {
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+    border: red solid 3px;
+    border-radius: 50%;
+}
+
+.clients3-info .border-ttile {
+    margin-bottom: 30px;
+}
+
+.clients3-info .user {}

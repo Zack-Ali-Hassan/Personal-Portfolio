@@ -1,0 +1,15 @@
+
+position: relative;
+    height: 100vh;
+    background-image: url(../img/hero.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 0;
+
+----------------------img end----------------
+position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    z-index: -10;
